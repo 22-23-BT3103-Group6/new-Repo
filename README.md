@@ -1,5 +1,7 @@
 # group6
 
+##Deployed App Link: https://group-project-32538.web.app 
+
 ## Project setup
 ```
 npm install
